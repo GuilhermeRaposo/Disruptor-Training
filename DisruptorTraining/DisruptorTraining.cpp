@@ -4,7 +4,7 @@
 
 
 
-BAKKESMOD_PLUGIN(DisruptorTraining, "Enables a constant disruptor on your car to practice control", plugin_version, PLUGINTYPE_FREEPLAY)
+BAKKESMOD_PLUGIN(DisruptorTraining, "Enables a constant disruptor power-up on your car", plugin_version, PLUGINTYPE_FREEPLAY)
 
 std::shared_ptr<CVarManagerWrapper> _globalCvarManager;
 
